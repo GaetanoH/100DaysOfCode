@@ -1,6 +1,8 @@
+package Day1;
+
 import java.util.Arrays;
 
-public class Day1 {
+public class BubbleSort {
     public static void main(String[] args) {
 
         int[] listToSort = new int[]{12, 4, 10, 5, 2};
